@@ -1,0 +1,6 @@
+{
+  "name": "MaxOffice",
+  "description": "A modern, professional office suite allowing you to fully manage and edit documents, spreadsheets, presentations, PDFs, and notes offline-first, with advanced Gemini utilities and AI generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
